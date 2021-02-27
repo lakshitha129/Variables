@@ -29,7 +29,7 @@ console.log(Var3 * Var4);
 // We can define Variables that have fixed values throughout the script - value cannot be reassigned
 const Var5 = 500;
 
-console.log(Var5 * Var1);
+console.log(Var5 * Var1); //?
 
 // This will throw an error - because Var5 was defined a Const - value cannot be reassigned
 Var5 = 250;
